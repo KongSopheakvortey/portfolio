@@ -57,7 +57,7 @@ export default defineComponent({
         name: 'My Portfolio Website',
         description: 'A personal portfolio website to showcase my projects, skills, and experience.',
         image: '/project/project0.png',
-        tech: ['Vue.js', 'TypeScript', 'Tailwind CSS'],
+        tech: ['Vue.js', 'JavaScript', 'Tailwind CSS'],
         github: 'https://github.com/lymakara-dev/portfolio-website.git'
       },
       {
